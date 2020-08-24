@@ -111,7 +111,7 @@ Note: '/' also used in filename in get_columns(). */
 #define CONTROLFILESUFFIX ".flc"
 #define CONTROLFILEMAGICNUMBER "flc2"   /* no longer used in 2.2 */
 #define CSUFFIXLEN MYSTRLEN(CONTROLFILESUFFIX)
-#define DEFAULTCOLUMNS 80
+#define DEFAULTCOLUMNS 180
 #define MAXLEN 255     /* Maximum character width */
 
 /* Add support for Sam Hocevar's TOIlet fonts */
